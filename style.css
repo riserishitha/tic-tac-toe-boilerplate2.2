@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    font-family: 'Fredoka One', cursive;
+    font-family: 'Fredoka One', cursive ;
     background-image: linear-gradient(180deg, dodgerblue, #267ADD);
 }
 
@@ -97,4 +97,7 @@ a{
     #message{
         font-size: 35px;
     }
+}
+.pText {
+  color: black;
 }
